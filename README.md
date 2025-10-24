@@ -2,7 +2,7 @@
 
 <h2>Проект Django</h2>
 <h3>Создание окружения для работы с проектами - 24 октября 2025</h3>
-![Django запущен](homework/image%2016.png)
+![Django запущен](django_app/homework/image%2016.png)
 
 
 <h2>Проект FastAPI</h2>
